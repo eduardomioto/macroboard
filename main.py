@@ -1,6 +1,6 @@
 from evdev import InputDevice, ecodes
 from constants import DEVICE_PATH
-from actions import handle_key_event
+from events import handle_key_event
 
 # Initialize the device and grab it
 dev = InputDevice(DEVICE_PATH)

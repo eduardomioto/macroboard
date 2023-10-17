@@ -24,3 +24,7 @@ pip install -r requirements.txt
 ```
 python ./main.py
 ```
+
+## Next Features
+- Move between desktops
+- 
